@@ -1,0 +1,783 @@
+﻿Ano;Modalidade;Centro;Cód;Curso;Processo_Seletivo;Turno;Vagas_1sem;Vagas_2sem;Inscritos
+2016;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;1244
+2016;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;2154
+2016;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;60;60;3022
+2016;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;3326
+2016;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;1134
+2016;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;2048
+2016;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;1873
+2016;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;1290
+2016;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;1011
+2016;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;1310
+2016;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;1322
+2016;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;80;0;1934
+2016;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;0;40;1172
+2016;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;86
+2016;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;86
+2016;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;589
+2016;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;3208
+2016;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;428
+2016;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;673
+2016;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;1518
+2016;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;1628
+2016;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;829
+2016;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;673
+2016;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;887
+2016;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;126
+2016;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;829
+2016;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;472
+2016;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;410
+2016;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;5
+2016;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;15
+2016;Presencial;CAC;80088;Design;SISU;Integral;35;35;1659
+2016;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;386
+2016;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;88
+2016;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;25;25;1061
+2016;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;395
+2016;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;502
+2016;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;114
+2016;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;1265
+2016;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;2354
+2016;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;1776
+2016;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;2177
+2016;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;1863
+2016;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;1667
+2016;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;3334
+2016;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;2113
+2016;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;1102
+2016;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;949
+2016;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;116
+2016;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;0;20;217
+2016;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;269
+2016;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;493
+2016;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;102
+2016;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;333
+2016;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;623
+2016;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;2253
+2016;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;4654
+2016;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;3409
+2016;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;4313
+2016;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;5023
+2016;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;2974
+2016;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;5498
+2016;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;2847
+2016;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;1922
+2016;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;4224
+2016;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;987
+2016;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;30;0;698
+2016;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;5536
+2016;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;2262
+2016;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;3222
+2016;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;2960
+2016;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;1957
+2016;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;482
+2016;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;712
+2016;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;2734
+2016;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;2345
+2016;Presencial;CCSA;13582;Secretariado;SISU;Noturno;60;60;1765
+2016;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;1834
+2016;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;1123
+2016;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;787
+2016;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;1113
+2016;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;2288
+2016;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;3114
+2016;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;1247
+2016;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;608
+2016;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;659
+2016;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;677
+2016;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;170
+2016;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;3621
+2016;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;789
+2016;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;920
+2016;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;1092
+2016;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;625
+2016;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;532
+2016;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;654
+2016;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;555
+2016;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;270
+2016;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;304
+2016;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;1278
+2016;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;1057
+2016;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;792
+2016;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;269
+2016;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;560
+2016;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;369
+2016;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;795
+2016;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;921
+2016;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;20;0;260
+2016;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;394
+2016;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;355;310;5108
+2017;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;1454
+2017;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;2503
+2017;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;50;50;2425
+2017;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;3716
+2017;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;924
+2017;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;1598
+2017;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;1557
+2017;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;1142
+2017;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;1003
+2017;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;1353
+2017;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;1311
+2017;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;80;0;1729
+2017;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;0;40;1020
+2017;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;69
+2017;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;96
+2017;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;567
+2017;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;2041
+2017;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;455
+2017;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;698
+2017;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;1613
+2017;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;1417
+2017;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;755
+2017;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;613
+2017;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;768
+2017;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;177
+2017;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;761
+2017;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;421
+2017;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;536
+2017;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;5
+2017;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;14
+2017;Presencial;CAC;80088;Design;SISU;Integral;35;35;1612
+2017;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;464
+2017;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;76
+2017;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;0;50;971
+2017;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;423
+2017;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;621
+2017;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;99
+2017;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;1243
+2017;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;2562
+2017;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;1874
+2017;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;2162
+2017;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;2080
+2017;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;1586
+2017;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;3185
+2017;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;1420
+2017;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;1062
+2017;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;991
+2017;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;98
+2017;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;0;20;200
+2017;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;280
+2017;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;431
+2017;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;111
+2017;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;282
+2017;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;628
+2017;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;2196
+2017;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;4300
+2017;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;3568
+2017;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;3502
+2017;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;2844
+2017;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;3425
+2017;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;3597
+2017;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;2249
+2017;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;1090
+2017;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;4668
+2017;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;911
+2017;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;30;0;739
+2017;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;4140
+2017;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;2495
+2017;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;3649
+2017;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;2637
+2017;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;1970
+2017;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;447
+2017;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;661
+2017;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;2401
+2017;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;2036
+2017;Presencial;CCSA;13582;Secretariado;SISU;Noturno;60;60;2006
+2017;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;1585
+2017;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;1180
+2017;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;937
+2017;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;373
+2017;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;2204
+2017;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;3105
+2017;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;1214
+2017;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;543
+2017;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;611
+2017;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;691
+2017;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;184
+2017;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;3761
+2017;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;677
+2017;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;675
+2017;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;959
+2017;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;560
+2017;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;555
+2017;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;446
+2017;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;626
+2017;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;266
+2017;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;301
+2017;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;1278
+2017;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;965
+2017;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;739
+2017;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;240
+2017;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;452
+2017;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;452
+2017;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;684
+2017;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;705
+2017;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;20;0;258
+2017;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;383
+2017;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;355;310;4525
+2018;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;1159
+2018;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;2165
+2018;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;50;50;1955
+2018;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;3059
+2018;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;782
+2018;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;1342
+2018;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;1187
+2018;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;854
+2018;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;885
+2018;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;1094
+2018;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;1086
+2018;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;80;0;2137
+2018;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;40;0;790
+2018;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;55
+2018;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;60
+2018;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;398
+2018;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;1738
+2018;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;421
+2018;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;634
+2018;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;1312
+2018;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;1111
+2018;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;579
+2018;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;417
+2018;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;668
+2018;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;172
+2018;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;672
+2018;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;268
+2018;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;410
+2018;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;7
+2018;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;25
+2018;Presencial;CAC;80088;Design;SISU;Integral;35;35;1256
+2018;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;436
+2018;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;34
+2018;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;0;50;900
+2018;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;428
+2018;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;455
+2018;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;87
+2018;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;1200
+2018;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;1615
+2018;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;1167
+2018;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;1291
+2018;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;1080
+2018;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;1179
+2018;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;3093
+2018;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;1124
+2018;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;768
+2018;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;644
+2018;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;91
+2018;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;20;0;230
+2018;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;223
+2018;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;342
+2018;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;83
+2018;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;341
+2018;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;606
+2018;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;1889
+2018;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;3433
+2018;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;4644
+2018;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;3203
+2018;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;2941
+2018;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;2883
+2018;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;3143
+2018;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;2083
+2018;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;1055
+2018;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;4066
+2018;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;833
+2018;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;30;0;599
+2018;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;3556
+2018;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;2232
+2018;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;2904
+2018;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;2205
+2018;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;1751
+2018;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;383
+2018;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;600
+2018;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;1846
+2018;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;1613
+2018;Presencial;CCSA;13582;Secretariado;SISU;Noturno;60;60;1283
+2018;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;1097
+2018;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;856
+2018;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;655
+2018;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;181
+2018;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;2567
+2018;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;2889
+2018;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;1450
+2018;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;441
+2018;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;530
+2018;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;475
+2018;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;142
+2018;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;3555
+2018;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;619
+2018;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;477
+2018;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;743
+2018;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;447
+2018;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;455
+2018;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;284
+2018;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;389
+2018;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;241
+2018;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;260
+2018;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;647
+2018;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;744
+2018;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;473
+2018;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;293
+2018;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;354
+2018;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;341
+2018;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;541
+2018;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;557
+2018;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;20;0;242
+2018;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;178
+2018;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;355;310;4060
+2019;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;759
+2019;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;1392
+2019;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;50;50;1622
+2019;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;2691
+2019;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;548
+2019;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;914
+2019;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;1106
+2019;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;639
+2019;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;847
+2019;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;777
+2019;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;1080
+2019;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;80;0;2283
+2019;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;40;0;767
+2019;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;53
+2019;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;53
+2019;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;377
+2019;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;1304
+2019;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;241
+2019;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;530
+2019;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;1124
+2019;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;1034
+2019;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;318
+2019;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;428
+2019;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;599
+2019;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;127
+2019;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;646
+2019;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;330
+2019;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;407
+2019;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;4
+2019;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;26
+2019;Presencial;CAC;80088;Design;SISU;Integral;35;35;872
+2019;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;373
+2019;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;35
+2019;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;0;50;783
+2019;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;391
+2019;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;323
+2019;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;120
+2019;Presencial;CAC;1439062;Artes Visuais - Bacharelado;SISU;Matutino;20;0;254
+2019;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;796
+2019;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;1087
+2019;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;913
+2019;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;995
+2019;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;838
+2019;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;801
+2019;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;1559
+2019;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;1159
+2019;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;599
+2019;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;714
+2019;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;105
+2019;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;20;0;143
+2019;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;306
+2019;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;377
+2019;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;109
+2019;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;230
+2019;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;537
+2019;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;1658
+2019;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;2776
+2019;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;5080
+2019;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;3443
+2019;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;1796
+2019;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;1865
+2019;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;2027
+2019;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;1745
+2019;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;764
+2019;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;2478
+2019;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;874
+2019;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;30;0;480
+2019;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;1833
+2019;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;1747
+2019;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;2129
+2019;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;1416
+2019;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;1258
+2019;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;543
+2019;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;685
+2019;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;1728
+2019;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;1718
+2019;Presencial;CCSA;13582;Secretariado;SISU;Noturno;60;60;1010
+2019;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;685
+2019;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;452
+2019;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;428
+2019;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;288
+2019;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;2140
+2019;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;2826
+2019;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;1042
+2019;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;378
+2019;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;579
+2019;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;516
+2019;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;174
+2019;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;2696
+2019;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;532
+2019;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;598
+2019;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;810
+2019;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;480
+2019;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;440
+2019;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;366
+2019;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;317
+2019;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;287
+2019;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;284
+2019;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;611
+2019;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;423
+2019;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;451
+2019;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;261
+2019;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;454
+2019;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;561
+2019;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;576
+2019;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;178
+2019;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;20;0;353
+2019;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;193
+2019;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;355;310;4133
+2020;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;1250
+2020;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;1924
+2020;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;50;50;1719
+2020;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;2828
+2020;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;831
+2020;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;1361
+2020;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;1188
+2020;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;869
+2020;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;790
+2020;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;1025
+2020;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;1070
+2020;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;80;0;3721
+2020;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;40;0;829
+2020;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;35
+2020;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;35
+2020;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;500
+2020;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;1956
+2020;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;413
+2020;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;603
+2020;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;1331
+2020;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;1528
+2020;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;530
+2020;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;486
+2020;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;699
+2020;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;131
+2020;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;749
+2020;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;338
+2020;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;360
+2020;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;6
+2020;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;18
+2020;Presencial;CAC;80088;Design;SISU;Integral;35;35;1117
+2020;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;431
+2020;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;47
+2020;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;0;50;1019
+2020;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;507
+2020;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;344
+2020;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;98
+2020;Presencial;CAC;1439062;Artes Visuais - Bacharelado;SISU;Matutino;20;0;435
+2020;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;1004
+2020;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;1279
+2020;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;1334
+2020;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;1301
+2020;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;940
+2020;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;1078
+2020;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;2135
+2020;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;1529
+2020;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;786
+2020;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;579
+2020;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;105
+2020;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;20;0;206
+2020;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;173
+2020;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;250
+2020;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;140
+2020;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;217
+2020;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;479
+2020;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;1704
+2020;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;2416
+2020;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;5651
+2020;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;3623
+2020;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;3049
+2020;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;3076
+2020;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;2877
+2020;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;2591
+2020;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;1172
+2020;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;4205
+2020;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;1018
+2020;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;30;0;849
+2020;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;2068
+2020;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;2547
+2020;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;3229
+2020;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;937
+2020;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;869
+2020;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;599
+2020;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;717
+2020;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;1622
+2020;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;1350
+2020;Presencial;CCSA;13582;Secretariado;SISU;Noturno;60;60;1238
+2020;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;627
+2020;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;563
+2020;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;662
+2020;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;296
+2020;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;2056
+2020;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;2364
+2020;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;947
+2020;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;574
+2020;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;554
+2020;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;754
+2020;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;256
+2020;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;4265
+2020;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;769
+2020;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;630
+2020;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;770
+2020;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;623
+2020;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;571
+2020;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;393
+2020;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;480
+2020;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;223
+2020;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;395
+2020;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;803
+2020;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;622
+2020;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;505
+2020;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;278
+2020;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;443
+2020;Presencial;CTG;13587;Engenharia de Minas;SISU;Integral;25;25;316
+2020;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;361
+2020;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;533
+2020;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;226
+2020;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;30;0;447
+2020;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;210
+2020;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;330;285;3273
+2021;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;566
+2021;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;826
+2021;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;50;50;1003
+2021;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;1363
+2021;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;365
+2021;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;572
+2021;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;898
+2021;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;219
+2021;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;297
+2021;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;450
+2021;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;621
+2021;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;80;0;3409
+2021;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;40;0;531
+2021;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;24
+2021;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;19
+2021;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;243
+2021;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;1273
+2021;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;264
+2021;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;364
+2021;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;864
+2021;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;1130
+2021;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;247
+2021;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;238
+2021;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;379
+2021;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;101
+2021;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;410
+2021;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;195
+2021;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;250
+2021;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;2
+2021;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;12
+2021;Presencial;CAC;80088;Design;SISU;Integral;35;35;756
+2021;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;236
+2021;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;21
+2021;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;0;50;697
+2021;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;299
+2021;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;162
+2021;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;34
+2021;Presencial;CAC;1439062;Artes Visuais - Bacharelado;SISU;Matutino;20;0;308
+2021;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;409
+2021;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;620
+2021;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;668
+2021;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;433
+2021;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;340
+2021;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;397
+2021;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;1627
+2021;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;1125
+2021;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;490
+2021;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;254
+2021;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;72
+2021;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;20;0;145
+2021;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;151
+2021;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;134
+2021;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;62
+2021;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;148
+2021;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;266
+2021;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;1139
+2021;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;1556
+2021;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;4655
+2021;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;2231
+2021;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;2050
+2021;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;2059
+2021;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;1397
+2021;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;2047
+2021;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;1028
+2021;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;2396
+2021;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;639
+2021;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;20;20;628
+2021;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;1112
+2021;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;454
+2021;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;479
+2021;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;455
+2021;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;475
+2021;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;450
+2021;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;560
+2021;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;801
+2021;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;748
+2021;Presencial;CCSA;13582;Secretariado;SISU;Noturno;60;60;507
+2021;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;295
+2021;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;317
+2021;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;237
+2021;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;183
+2021;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;1073
+2021;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;1112
+2021;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;445
+2021;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;389
+2021;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;333
+2021;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;374
+2021;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;150
+2021;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;2672
+2021;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;448
+2021;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;367
+2021;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;500
+2021;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;309
+2021;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;366
+2021;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;190
+2021;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;287
+2021;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;176
+2021;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;207
+2021;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;677
+2021;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;483
+2021;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;353
+2021;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;104
+2021;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;143
+2021;Presencial;CTG;13587;Engenharia de Minas;SISU;Integral;25;25;188
+2021;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;221
+2021;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;380
+2021;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;167
+2021;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;30;0;442
+2021;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;102
+2021;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;330;285;1280
+2017;EAD;CAC;121487;Letras - Língua Portuguesa - EAD;Vestibular; ;0;390;629
+2017;EAD;CAC;1137847;Letras - Língua Espanhola - EAD;Vestibular; ;0;270;283
+2017;EAD;CCEN;1137846;Matemática - EAD;Vestibular; ;0;95;268
+2017;EAD;CCSA;1292716;Ciências Contábeis - EAD;Vestibular; ;0;300;837
+2017;EAD;CFCH;1330038;Geografia - EAD;Vestibular; ;0;250;254
+2020;EAD;CAC;121487;Letras - Língua Portuguesa - EAD;Vestibular; ;0;150;766
+2020;EAD;CAC;1137847;Letras - Língua Espanhola - EAD;Vestibular; ;0;150;400
+2020;EAD;CCEN;1137846;Matemática - EAD;Vestibular; ;0;150;543
+2020;EAD;CCSA;1292716;Ciências Contábeis - EAD;Vestibular; ;0;100;569
+2020;EAD;CFCH;1330038;Geografia - EAD;Vestibular; ;0;150;593
+2021;EAD;CB;1579738;Ciências Biológicas - EAD;Vestibular;0;180;0;136
+2022;Presencial;CAA;101082;Administração - CAA;SISU;Matutino;40;40;588
+2022;Presencial;CAA;101082;Administração - CAA;SISU;Noturno;40;40;840
+2022;Presencial;CAA;101086;Ciências Econômicas - CAA;SISU;Noturno;50;50;713
+2022;Presencial;CAA;101092;Pedagogia - CAA;SISU;Noturno;40;40;1095
+2022;Presencial;CAA;101127;Design - CAA;SISU;Integral;40;40;373
+2022;Presencial;CAA;101127;Design - CAA;SISU;Noturno;40;40;605
+2022;Presencial;CAA;101129;Engenharia Civil - CAA;SISU;Integral;40;40;684
+2022;Presencial;CAA;118092;Engenharia de Produção - CAA;SISU;Integral;40;40;210
+2022;Presencial;CAA;118096;Física - CAA;SISU;Noturno;40;40;292
+2022;Presencial;CAA;118098;Química - CAA;SISU;Noturno;40;40;427
+2022;Presencial;CAA;118100;Matemática - CAA;SISU;Noturno;40;40;513
+2022;Presencial;CAA;150192;Intercultural Indígena;Vestibular;Integral;40;0;78
+2022;Presencial;CAA;1189778;Medicina - CAA;SISU;Integral;40;40;2696
+2022;Presencial;CAA;1321439;Comunicação Social - CAA;SISU;Integral;40;0;350
+2022;Presencial;CAA;1596096;Interdisciplinar em Ciência e Tecnologia;SISU;Integral;40;0;150
+2022;Presencial;CAC;13604;Música;Vestibular;Integral;30;0;29
+2022;Presencial;CAC;13604;Música;Vestibular;Noturno;0;30;17
+2022;Presencial;CAC;13609;Biblioteconomia;SISU;Vespertino;55;0;180
+2022;Presencial;CAC;13610;Arquitetura e Urbanismo;SISU;Integral;50;50;1266
+2022;Presencial;CAC;23910;Artes Visuais - Licenciatura;SISU;Integral;35;0;245
+2022;Presencial;CAC;23912;Rádio, TV e Internet;SISU;Matutino;0;30;257
+2022;Presencial;CAC;29483;Jornalismo;SISU;Vespertino;50;0;685
+2022;Presencial;CAC;33784;Publicidade e Propaganda;SISU;Matutino;0;45;961
+2022;Presencial;CAC;35520;Teatro;SISU;Integral;35;0;236
+2022;Presencial;CAC;44947;Letras - Português;SISU;Noturno;30;0;186
+2022;Presencial;CAC;44947;Letras - Português;SISU;Vespertino;0;60;316
+2022;Presencial;CAC;44950;Letras - Francês;SISU;Vespertino;15;0;72
+2022;Presencial;CAC;44977;Letras - Inglês;SISU;Matutino;0;30;350
+2022;Presencial;CAC;44978;Letras - Espanhol;SISU;Matutino;0;30;178
+2022;Presencial;CAC;44978;Letras - Espanhol;SISU;Noturno;30;0;189
+2022;Presencial;CAC;53750;Música - Canto;Vestibular;Matutino;4;0;4
+2022;Presencial;CAC;53760;Música - Instrumento;Vestibular;Matutino;18;0;10
+2022;Presencial;CAC;80088;Design;SISU;Integral;35;35;744
+2022;Presencial;CAC;117386;Gestão da Informação;SISU;Noturno;55;0;231
+2022;Presencial;CAC;117392;Dança;Vestibular;Noturno;30;0;25
+2022;Presencial;CAC;117394;Cinema e Audiovisual;SISU;Vespertino;0;50;624
+2022;Presencial;CAC;313603;Letras - Bacharelado;SISU;Vespertino;30;0;271
+2022;Presencial;CAC;1204606;Expressão Gráfica;SISU;Integral;30;0;143
+2022;Presencial;CAC;1313313;Letras - Libras;Vestibular;Matutino;0;30;77
+2022;Presencial;CAC;1439062;Artes Visuais - Bacharelado;SISU;Matutino;20;0;292
+2022;Presencial;CAV;101140;Ciências Biológicas - CAV;SISU;Noturno;45;45;335
+2022;Presencial;CAV;101149;Nutrição - CAV;SISU;Matutino;30;30;591
+2022;Presencial;CAV;101153;Enfermagem - CAV;SISU;Integral;30;30;599
+2022;Presencial;CAV;1155122;Educação Física - Licenciatura - CAV;SISU;Vespertino;45;45;382
+2022;Presencial;CAV;1189922;Saúde Coletiva - CAV;SISU;Noturno;30;30;301
+2022;Presencial;CAV;5000731;Educação Física - Bacharelado - CAV;SISU;Matutino;35;35;309
+2022;Presencial;CB;13597;Biomedicina;SISU;Integral;60;60;1434
+2022;Presencial;CB;20889;Ciências Biológicas - Licenciatura;SISU;Noturno;50;50;769
+2022;Presencial;CB;44992;Ciências Biológicas - Bacharelado;SISU;Integral;50;50;422
+2022;Presencial;CB;58852;Ciências Biológicas - Ciências Ambientais;SISU;Integral;40;40;250
+2022;Presencial;CCEN;13589;Física - Bacharelado;SISU;Integral;30;0;73
+2022;Presencial;CCEN;13591;Química - Bacharelado;SISU;Integral;20;0;118
+2022;Presencial;CCEN;13592;Matemática - Bacharelado;SISU;Integral;30;0;139
+2022;Presencial;CCEN;13594;Estatística;SISU;Integral;30;0;135
+2022;Presencial;CCEN;13617;Física - Licenciatura;SISU;Noturno;30;0;60
+2022;Presencial;CCEN;13618;Química - Licenciatura;SISU;Noturno;30;0;135
+2022;Presencial;CCEN;13619;Matemática - Licenciatura;SISU;Noturno;40;0;229
+2022;Presencial;CCJ;13576;Direito;SISU;Matutino;50;50;962
+2022;Presencial;CCJ;13576;Direito;SISU;Noturno;50;100;1354
+2022;Presencial;CCM;13601;Medicina;SISU;Integral;70;70;3510
+2022;Presencial;CCS;13598;Educação Física - Licenciatura;SISU;Integral;60;60;1512
+2022;Presencial;CCS;13599;Enfermagem;SISU;Integral;40;40;1888
+2022;Presencial;CCS;13600;Farmácia;SISU;Integral;45;45;1946
+2022;Presencial;CCS;13602;Nutrição;SISU;Integral;30;30;1370
+2022;Presencial;CCS;13611;Odontologia;SISU;Integral;50;50;1915
+2022;Presencial;CCS;13611;Odontologia;SISU;Noturno;20;20;807
+2022;Presencial;CCS;13614;Fisioterapia;SISU;Integral;33;33;2266
+2022;Presencial;CCS;13615;Terapia Ocupacional;SISU;Integral;18;18;451
+2022;Presencial;CCS;20306;Fonoaudiologia;SISU;Integral;20;20;513
+2022;Presencial;CCS;1192307;Educação Física - Bacharelado;SISU;Integral;60;60;962
+2022;Presencial;CCSA;13572;Administração;SISU;Matutino;50;50;440
+2022;Presencial;CCSA;13572;Administração;SISU;Noturno;50;50;469
+2022;Presencial;CCSA;13573;Ciências Contábeis;SISU;Noturno;50;50;77
+2022;Presencial;CCSA;13573;Ciências Contábeis;SISU;Vespertino;60;60;71
+2022;Presencial;CCSA;13574;Ciências Econômicas;SISU;Matutino;60;0;345
+2022;Presencial;CCSA;13574;Ciências Econômicas;SISU;Noturno;60;0;397
+2022;Presencial;CCSA;13581;Serviço Social;SISU;Matutino;60;0;635
+2022;Presencial;CCSA;13581;Serviço Social;SISU;Vespertino;0;60;619
+2022;Presencial;CCSA;13582;Secretariado;SISU;Noturno;50;50;346
+2022;Presencial;CCSA;13625;Turismo;SISU;Noturno;0;35;341
+2022;Presencial;CCSA;13625;Turismo;SISU;Vespertino;35;0;240
+2022;Presencial;CCSA;18474;Hotelaria;SISU;Integral;0;30;194
+2022;Presencial;CCSA;117380;Ciências Atuariais;SISU;Integral;30;0;113
+2022;Presencial;CE;13580;Pedagogia;SISU;Matutino;50;50;989
+2022;Presencial;CE;13580;Pedagogia;SISU;Noturno;50;50;977
+2022;Presencial;CE;13580;Pedagogia;SISU;Vespertino;0;50;420
+2022;Presencial;CFCH;13575;Ciências Sociais - Bacharelado;SISU;Vespertino;60;0;305
+2022;Presencial;CFCH;13577;Filosofia - Licenciatura;SISU;Vespertino;40;0;252
+2022;Presencial;CFCH;13579;História - Licenciatura;SISU;Noturno;0;55;315
+2022;Presencial;CFCH;13579;História - Licenciatura;SISU;Vespertino;20;0;115
+2022;Presencial;CFCH;13608;Psicologia;SISU;Integral;40;40;2690
+2022;Presencial;CFCH;21847;Ciências Sociais - Licenciatura;SISU;Noturno;0;60;347
+2022;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Matutino;60;0;340
+2022;Presencial;CFCH;52231;Geografia - Licenciatura;SISU;Noturno;60;0;341
+2022;Presencial;CFCH;52249;Geografia - Bacharelado;SISU;Vespertino;60;0;273
+2022;Presencial;CFCH;117378;Ciência Política;SISU;Integral;50;0;325
+2022;Presencial;CFCH;117388;Museologia;SISU;Noturno;30;0;169
+2022;Presencial;CFCH;117390;Arqueologia;SISU;Integral;30;0;239
+2022;Presencial;CFCH;313577;Filosofia - Bacharelado;SISU;Vespertino;20;0;118
+2022;Presencial;CFCH;313579;História - Bacharelado;SISU;Vespertino;35;0;180
+2022;Presencial;CIn;13595;Ciência da Computação;SISU;Integral;50;50;736
+2022;Presencial;CIn;58854;Engenharia da Computação;SISU;Integral;50;50;510
+2022;Presencial;CIn;1136142;Sistema de Informação;SISU;Integral;35;35;399
+2022;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Integral;30;0;109
+2022;Presencial;CTG;13583;Engenharia Cartográfica e de Agrimensura;SISU;Noturno;0;30;107
+2022;Presencial;CTG;13587;Engenharia de Minas;SISU;Integral;25;25;188
+2022;Presencial;CTG;13590;Geologia;SISU;Integral;20;20;193
+2022;Presencial;CTG;13593;Química Industrial;SISU;Noturno;40;0;253
+2022;Presencial;CTG;21710;Engenharia de Produção;SISU;Integral;40;0;154
+2022;Presencial;CTG;58856;Engenharia Biomédica;SISU;Integral;30;0;289
+2022;Presencial;CTG;117376;Oceanografia;SISU;Integral;25;0;90
+2022;Presencial;CTG;5000630;ABI-Engenharia;SISU;Integral;330;285;1096
+2022;EAD;CAC;121487;Letras - Língua Portuguesa - EAD;Vestibular;0;42;0;126
+2022;EAD;CAC;1137847;Letras - Língua Espanhola - EAD;Vestibular;0;42;0;74
+2022;EAD;CB;1579738;Ciências Biológicas - EAD;Vestibular;0;56;0;117
+2022;EAD;CCEN;1137846;Matemática - EAD;Vestibular;0;85;0;120
+2022;EAD;CCSA;1292716;Ciências Contábeis - EAD;Vestibular;0;37;0;158
+2022;EAD;CFCH;1330038;Geografia - EAD;Vestibular;0;52;0;96
